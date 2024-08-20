@@ -1,0 +1,7 @@
+let phone = document.getElementById('phone') as HTMLInputElement;
+//OR
+
+let phone2 = <HTMLInputElement> document.getElementById('phone2') ;
+
+
+phone.value

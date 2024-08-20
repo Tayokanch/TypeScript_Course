@@ -1,0 +1,1 @@
+{"version":3,"file":"intersection_types.js","sourceRoot":"","sources":["../src/intersection_types.ts"],"names":[],"mappings":";AAUA,IAAI,OAAO,GAAa;IACpB,IAAI,EAAG,GAAE,EAAE,GAAE,CAAC;IACd,MAAM,EAAE,GAAE,EAAE,GAAC,CAAC;CACjB,CAAA;AAkBD,MAAM,OAAO,GAAG;IACZ,IAAI,EAAG,eAAe;IACtB,GAAG,EAAG,EAAE;IACR,MAAM,EAAE,iBAAiB;IACzB,IAAI,EAAE,aAAa;IACnB,QAAQ,EAAE,QAAQ;CACrB,CAAA"}
