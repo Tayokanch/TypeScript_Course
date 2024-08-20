@@ -1,0 +1,1 @@
+let scores: number [] = [23, 78, 34, 98]

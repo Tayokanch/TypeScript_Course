@@ -1,0 +1,1 @@
+let user : [string, number] = ["Tayo", 39]
