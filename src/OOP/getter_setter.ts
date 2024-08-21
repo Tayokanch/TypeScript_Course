@@ -18,7 +18,14 @@
 }
 
 let account = new Account(4, "Teni", 327);
-
 console.log(`This is the balance we got using the setter: ${account.myBalance}`)
 
-//NOTE if not for the setter, we would have called myBalance as a function
+/* NOTE: without Getter and Setter we can have access to the private balance, 
+    and if we want to get the balance through myBalance method, 
+    we would have called myBalance as a function
+USE CASE:
+    Setter and Getter are used to get the variable of a class set as private
+    And also, they let use have access to a private variable of a class outside the classblock
+    e.g */
+
+let ownerBalance = account.myBalance
