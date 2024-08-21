@@ -17,4 +17,5 @@ class Account {
 }
 let account = new Account(4, "Teni", 327);
 console.log(`This is the balance we got using the setter: ${account.myBalance}`);
+let ownerBalance = account.myBalance;
 //# sourceMappingURL=getter_setter.js.map
